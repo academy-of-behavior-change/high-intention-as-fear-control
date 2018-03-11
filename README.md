@@ -4,4 +4,4 @@ This is the GitHub repository for a project to test the hypothesis that reportin
 
 The Open Science Framework project page for this project is [https://osf.io/m8k5j/](https://osf.io/m8k5j/). This project is a part of the "Towards consensus on fear appeals" project that is hosted on the Open Science Framework at [https://osf.io/a2v46/](https://osf.io/a2v46/).
 
-We are open to collaboration: if you would like to join, contact Gjalt-Jorn Peters [here on GitHub](https://github.com/Matherion) or through [Twitter](https://twitter.com/matherion).
+We are delighted to collaborate: if you would like to join, contact Gjalt-Jorn Peters [on GitHub](https://github.com/Matherion), the [Open Science Framework](https://osf.io/txfec/), through [Twitter](https://twitter.com/matherion), or the [contact form on his website](https://behaviorchange.eu).
